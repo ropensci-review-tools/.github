@@ -23,3 +23,5 @@ The organization also hosts other rOpenSci repositories that are not related to 
 - [**pkgmatch**](https://docs.ropensci.org/pkgmatch/) finds R packages that match a description or another package.
 - [**dashboard**](https://dashboard.ropensci.org/) is the dashboard for software peer review.
 - [**repometrics**](https://docs.ropensci.org/repometrics/) and [**orgmetrics**](https://docs.ropensci.org/orgmetrics/) compute metrics for repositories and organizations ([rOpenSci's metrics dashboard](https://metrics.ropensci.org/)).
+
+Maintainers: see the [notes on local testing, Makefiles and pre-commit hooks](https://github.com/ropensci-review-tools/.github/blob/main/MAINTAINING.md).
